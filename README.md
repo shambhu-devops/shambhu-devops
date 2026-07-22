@@ -20,10 +20,6 @@ Senior Azure DevOps Engineer with 13+ years of IT experience in designing, autom
 - 🔐 DevSecOps & Cloud Security
 - 📊 Azure Monitoring & Observability
 - 🎯 Passionate about Cloud Automation & Infrastructure as Code
-  ## 🛠 Tech Stack
-  <p>
-<img src="https://skillicons.dev/icons?i=azure,terraform,git,github,docker,kubernetes,vscode,powershell,bash" />
-</p>
 
 ## 🏆 Certifications
 - Microsoft Azure (Learning)
