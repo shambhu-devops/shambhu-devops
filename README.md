@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Shambhu Kumar</h1>
 
 <h3 align="center">
-Senior Azure DevOps Engineer | Azure Cloud Architect | DevSecOps Engineer | Terraform | Kubernetes | Azure DevOps
+Senior Azure DevOps Engineer | Azure Cloud Architect | DevSecOps | Terraform | Kubernetes | CI/CD | IaC
 </h3>
 
 <p align="center">
@@ -22,10 +22,12 @@ Senior Azure DevOps Engineer with 13+ years of IT experience in designing, autom
 - 🎯 Passionate about Cloud Automation & Infrastructure as Code
 
 ## 🏆 Certifications
-- Microsoft Azure (Learning)
-- HashiCorp Terraform (Learning)
-- Azure DevOps (Learning)
-- Kubernetes (Learning)
+## 🏆 Learning Focus
+
+- Azure Solutions Architecture
+- HashiCorp Terraform Associate
+- Azure DevOps Engineer Expert
+- Kubernetes (CKA Path)
  <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shambhu-devops&show_icons=true&theme=tokyonight" />
 </p>
@@ -57,6 +59,10 @@ Senior Azure DevOps Engineer with 13+ years of IT experience in designing, autom
 ✔️ Automated deployment using modular Terraform architecture.
 
 ✔️ Technologies: Azure • Terraform • Git • GitHub
+terraform-azure
+azure-devops-yaml
+aks-deployment
+bicep-modules
 
 🔗 Repository: https://github.com/shambhu-devops/terraform-azure
 
