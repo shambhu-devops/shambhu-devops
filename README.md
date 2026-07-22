@@ -41,7 +41,6 @@ Senior Azure DevOps Engineer with 13+ years of IT experience in designing, autom
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shambhu-devops&show_icons=true&theme=tokyonight" />
 </p>
@@ -49,7 +48,6 @@ Senior Azure DevOps Engineer with 13+ years of IT experience in designing, autom
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=shambhu-devops&theme=tokyonight" />
 </p>
@@ -64,22 +62,21 @@ Senior Azure DevOps Engineer with 13+ years of IT experience in designing, autom
 ---
 
 ## 💼 Featured Project
-
 ### Azure Infrastructure using Terraform
 
 - ✔️ Designed reusable Terraform modules for Azure Resource provisioning.
 - ✔️ Implemented Infrastructure as Code (IaC) best practices.
-- ✔️ Automated Azure deployment using modular Terraform architecture.
-- ✔️ Technologies: Azure • Terraform • Git • GitHub
+- ✔️ Automated deployment using modular Terraform architecture.
+
+**Technologies:** Azure • Terraform • Git • GitHub
 
 🔗 Repository: https://github.com/shambhu-devops/terraform-azure
 
 ---
 
-## 📖 Currently Learning
+## 📚 Currently Learning
 
-- Azure Landing Zones
-- Azure DevOps YAML Pipelines
-- Terraform Enterprise Modules
-- Kubernetes (AKS)
-- GitHub Actions
+- Azure Solutions Architect Expert
+- HashiCorp Terraform Associate
+- Azure DevOps Engineer Expert
+- Certified Kubernetes Administrator (CKA)
