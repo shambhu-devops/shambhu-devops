@@ -50,7 +50,6 @@ Passionate Azure DevOps Engineer with 13+ years of IT experience specializing in
 💼 LinkedIn: https://linkedin.com/in/shambhu-kumar-9789208a
 
 ## 💼 Featured Projects
-🔗 Repository: [terraform-azure](https://github.com/shambhu-devops/terraform-azure)
 
 ### Azure Infrastructure using Terraform
 
@@ -62,7 +61,7 @@ Passionate Azure DevOps Engineer with 13+ years of IT experience specializing in
 
 ✔️ Technologies: Azure • Terraform • Git • GitHub
 
-🔗 Repository: https://github.com/shambhu-devops/terraform-azure
+🔗 Repository: [terraform-azure](https://github.com/shambhu-devops/terraform-azure)
 
 ## 📚 Currently Learning
 
