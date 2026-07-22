@@ -21,21 +21,32 @@ Senior Azure DevOps Engineer with 13+ years of IT experience in designing, autom
 - 📊 Azure Monitoring & Observability
 - 🎯 Passionate about Cloud Automation & Infrastructure as Code
 
-## 🏆 Certifications
-## 🏆 Learning Focus
+---
 
-- Azure Solutions Architecture
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=azure,terraform,git,github,docker,kubernetes,vscode,powershell,bash" />
+</p>
+
+---
+
+## 📚 Learning Focus
+
+- Azure Solutions Architect Expert
 - HashiCorp Terraform Associate
 - Azure DevOps Engineer Expert
-- Kubernetes (CKA Path)
- <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shambhu-devops&show_icons=true&theme=tokyonight" />
-</p>
+- Certified Kubernetes Administrator (CKA)
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shambhu-devops&show_icons=true&theme=tokyonight" />
 </p>
+
+---
 
 ## 🔥 GitHub Streak
 
@@ -43,31 +54,32 @@ Senior Azure DevOps Engineer with 13+ years of IT experience in designing, autom
 <img src="https://streak-stats.demolab.com?user=shambhu-devops&theme=tokyonight" />
 </p>
 
+---
+
 ## 🌐 Connect with Me
 
-📧 Email: rohitraj631@gmail.com
+- 📧 Email: rohitraj631@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/shambhu-kumar-9789208a
 
-💼 LinkedIn: https://linkedin.com/in/shambhu-kumar-9789208a
+---
 
-## 💼 Featured Projects
+## 💼 Featured Project
+
 ### Azure Infrastructure using Terraform
 
-✔️ Designed reusable Terraform modules for Azure Resource provisioning.
-
-✔️ Implemented Infrastructure as Code (IaC) following best practices.
-
-✔️ Automated deployment using modular Terraform architecture.
-
-✔️ Technologies: Azure • Terraform • Git • GitHub
-terraform-azure
-azure-devops-yaml
-aks-deployment
-bicep-modules
+- ✔️ Designed reusable Terraform modules for Azure Resource provisioning.
+- ✔️ Implemented Infrastructure as Code (IaC) best practices.
+- ✔️ Automated Azure deployment using modular Terraform architecture.
+- ✔️ Technologies: Azure • Terraform • Git • GitHub
 
 🔗 Repository: https://github.com/shambhu-devops/terraform-azure
 
-## 📚 Currently Learning
-Microsoft Azure Administrator (Preparing)
-HashiCorp Terraform Associate (Preparing)
-Azure DevOps Engineer Expert (Preparing)
-Certified Kubernetes Administrator (Preparing)
+---
+
+## 📖 Currently Learning
+
+- Azure Landing Zones
+- Azure DevOps YAML Pipelines
+- Terraform Enterprise Modules
+- Kubernetes (AKS)
+- GitHub Actions
