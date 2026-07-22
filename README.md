@@ -31,15 +31,6 @@ Senior Azure DevOps Engineer with 13+ years of IT experience in designing, autom
 
 ---
 
-## 📚 Learning Focus
-
-- Azure Solutions Architect Expert
-- HashiCorp Terraform Associate
-- Azure DevOps Engineer Expert
-- Certified Kubernetes Administrator (CKA)
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shambhu-devops&show_icons=true&theme=tokyonight" />
@@ -57,7 +48,7 @@ Senior Azure DevOps Engineer with 13+ years of IT experience in designing, autom
 ## 🌐 Connect with Me
 
 - 📧 Email: rohitraj631@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/shambhu-kumar-9789208a
+-- 💼 LinkedIn: [Shambhu Kumar](https://linkedin.com/in/shambhu-kumar-9789208a)
 
 ---
 
@@ -70,10 +61,9 @@ Senior Azure DevOps Engineer with 13+ years of IT experience in designing, autom
 
 **Technologies:** Azure • Terraform • Git • GitHub
 
-🔗 Repository: https://github.com/shambhu-devops/terraform-azure
+🔗 Repository: [terraform-azure](https://github.com/shambhu-devops/terraform-azure)
 
 ---
-
 ## 📚 Currently Learning
 
 - Azure Solutions Architect Expert
