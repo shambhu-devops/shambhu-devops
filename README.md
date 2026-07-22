@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shambhu Kumar</h1>
 
-<!--
-**shambhu-devops/shambhu-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Senior Azure DevOps Engineer | DevSecOps Engineer | Azure Cloud Platform Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Designing, Automating and Securing Enterprise Cloud Infrastructure on Microsoft Azure with DevOps, Terraform, Kubernetes and Infrastructure as Code.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 💼 Senior Azure DevOps Engineer with 13+ years of IT experience
+- ☁️ Microsoft Azure Cloud Specialist
+- 🏗️ Infrastructure as Code using Terraform & Bicep
+- 🚀 Azure DevOps CI/CD Pipeline Automation
+- ☸️ Kubernetes (AKS) & Docker
+- 🔐 DevSecOps | Cloud Security | Governance
+- 📊 Azure Monitoring & Observability
+- 🌍 Open to Global Azure Cloud & DevOps Opportunities
