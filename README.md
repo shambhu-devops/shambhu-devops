@@ -20,17 +20,37 @@ Passionate Azure DevOps Engineer with 13+ years of IT experience specializing in
 - 🔐 DevSecOps & Cloud Security
 - 📊 Azure Monitoring & Observability
 - 🤝 Always learning new cloud technologies
+  ## 🛠 Tech Stack
+  <p>
+<img src="https://skillicons.dev/icons?i=azure,terraform,git,github,docker,kubernetes,vscode,powershell,bash" />
+</p>
 
-- 🛠 Tech Stack
+## 🏆 Certifications
+- Microsoft Azure
+- Terraform
+- Azure DevOps
+- Kubernetes (Learning)
+- <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shambhu-devops&show_icons=true&theme=tokyonight" />
+</p>
 
-🏆 Certifications
+## 📈 GitHub Stats
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shambhu-devops&theme=tokyonight" />
+</p>
+- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
 
-📈 GitHub Stats
+## 🔥 GitHub Streak
 
-🔥 GitHub Streak
+## 🌐 Connect with Me
 
-🌐 Connect with Me
+## 💼 Featured Projects
+### Azure Infrastructure using Terraform
+- Provisioned Azure Resource Group using Terraform Modules.
+- Technologies: Azure, Terraform, Git, GitHub.
 
-💼 Featured Projects
+Repository:
+https://github.com/shambhu-devops/terraform-azure
 
-📚 Currently Learning
+## 📚 Currently Learning
