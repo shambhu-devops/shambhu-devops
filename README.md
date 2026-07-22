@@ -38,19 +38,27 @@ Passionate Azure DevOps Engineer with 13+ years of IT experience specializing in
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=shambhu-devops&theme=tokyonight" />
 </p>
-- 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+- 📧 Email: rohitraj631@gmail.com
+- 💼 LinkedIn: linkedin.com/in/shambhu-kumar-9789208a
 
 ## 🔥 GitHub Streak
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shambhu-devops&theme=tokyonight" />
+</p>
 
 ## 🌐 Connect with Me
 
 ## 💼 Featured Projects
 ### Azure Infrastructure using Terraform
-- Provisioned Azure Resource Group using Terraform Modules.
-- Technologies: Azure, Terraform, Git, GitHub.
 
-Repository:
+✔ Provisioned Azure Resource Groups using reusable Terraform Modules.
+
+✔ Infrastructure as Code (IaC) following best practices.
+
+✔ Technologies:
+Azure • Terraform • Git • GitHub
+
+🔗 Repository:
 https://github.com/shambhu-devops/terraform-azure
 
 ## 📚 Currently Learning
