@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shambhu Kumar</h1>
+<h1 align="center">👋 Hi, I'm Shambhu Kumar</h1>
 
 <h3 align="center">
-Senior Azure DevOps Engineer | DevSecOps Engineer | Azure Cloud Platform Engineer
+Senior Azure DevOps Engineer | Azure Cloud Architect | DevSecOps | Terraform | Kubernetes
 </h3>
 
 <p align="center">
-Designing, Automating and Securing Enterprise Cloud Infrastructure on Microsoft Azure with DevOps, Terraform, Kubernetes and Infrastructure as Code.
+Passionate Azure DevOps Engineer with 13+ years of IT experience specializing in Azure Cloud, Terraform, Azure DevOps, Kubernetes, CI/CD, Infrastructure as Code (IaC), Cloud Security, and Automation.
 </p>
 
 ---
@@ -14,9 +14,23 @@ Designing, Automating and Securing Enterprise Cloud Infrastructure on Microsoft 
 
 - 💼 Senior Azure DevOps Engineer with 13+ years of IT experience
 - ☁️ Microsoft Azure Cloud Specialist
-- 🏗️ Infrastructure as Code using Terraform & Bicep
-- 🚀 Azure DevOps CI/CD Pipeline Automation
+- 🚀 Infrastructure as Code (Terraform & Bicep)
+- 🔄 Azure DevOps CI/CD Pipelines
 - ☸️ Kubernetes (AKS) & Docker
-- 🔐 DevSecOps | Cloud Security | Governance
+- 🔐 DevSecOps & Cloud Security
 - 📊 Azure Monitoring & Observability
-- 🌍 Open to Global Azure Cloud & DevOps Opportunities
+- 🤝 Always learning new cloud technologies
+
+- 🛠 Tech Stack
+
+🏆 Certifications
+
+📈 GitHub Stats
+
+🔥 GitHub Streak
+
+🌐 Connect with Me
+
+💼 Featured Projects
+
+📚 Currently Learning
