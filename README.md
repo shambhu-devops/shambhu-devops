@@ -54,13 +54,18 @@ Senior Azure DevOps Engineer with 13+ years of IT experience in designing, autom
 
 ## 💼 Featured Project
 
-### Azure Infrastructure using Terraform
+## 💼 Featured Projects
 
+### Azure Infrastructure using Terraform
+🔗 https://github.com/shambhu-devops/terraform-azure
+
+**Technologies:** Azure • Terraform • Git • GitHub
+
+### Azure DevOps YAML Pipeline
+🔗 https://github.com/shambhu-devops/azure-devops-yaml
 - ✔️ Designed reusable Terraform modules for Azure Resource provisioning.
 - ✔️ Implemented Infrastructure as Code (IaC) best practices.
 - ✔️ Automated deployment using modular Terraform architecture.
-
-**Technologies:** Azure • Terraform • Git • GitHub
 
 🔗 Repository: [terraform-azure](https://github.com/shambhu-devops/terraform-azure)
 
