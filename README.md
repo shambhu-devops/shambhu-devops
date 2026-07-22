@@ -30,10 +30,9 @@ Passionate Azure DevOps Engineer with 13+ years of IT experience specializing in
 - HashiCorp Terraform (Learning)
 - Azure DevOps (Learning)
 - Kubernetes (Learning)
-- <p align="center">
+ <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shambhu-devops&show_icons=true&theme=tokyonight" />
 </p>
-
 ## 📈 GitHub Stats
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=shambhu-devops&theme=tokyonight" />
@@ -48,10 +47,10 @@ Passionate Azure DevOps Engineer with 13+ years of IT experience specializing in
 
 📧 Email: rohitraj631@gmail.com
 
-💼 LinkedIn:
-https://linkedin.com/in/shambhu-kumar-9789208a
+💼 LinkedIn: https://linkedin.com/in/shambhu-kumar-9789208a
 
 ## 💼 Featured Projects
+🔗 Repository: [terraform-azure](https://github.com/shambhu-devops/terraform-azure)
 
 ### Azure Infrastructure using Terraform
 
