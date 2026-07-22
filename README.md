@@ -48,7 +48,7 @@ Senior Azure DevOps Engineer with 13+ years of IT experience in designing, autom
 ## 🌐 Connect with Me
 
 - 📧 Email: rohitraj631@gmail.com
--- 💼 LinkedIn: [Shambhu Kumar](https://linkedin.com/in/shambhu-kumar-9789208a)
+- 💼 LinkedIn: [Shambhu Kumar](https://linkedin.com/in/shambhu-kumar-9789208a)
 
 ---
 
