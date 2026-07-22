@@ -53,8 +53,6 @@ https://linkedin.com/in/shambhu-kumar-9789208a
 
 ## 💼 Featured Projects
 
-## 💼 Featured Projects
-
 ### Azure Infrastructure using Terraform
 
 ✔️ Provisioned Azure Resource Groups using reusable Terraform modules.
