@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Shambhu Kumar</h1>
 
 <h3 align="center">
-Senior Azure DevOps Engineer | Azure Cloud Architect | DevSecOps | Terraform | Kubernetes
+Senior Azure DevOps Engineer | Azure Cloud Architect | DevSecOps Engineer | Terraform | Kubernetes | Azure DevOps
 </h3>
 
 <p align="center">
-Passionate Azure DevOps Engineer with 13+ years of IT experience specializing in Azure Cloud, Terraform, Azure DevOps, Kubernetes, CI/CD, Infrastructure as Code (IaC), Cloud Security, and Automation.
+Senior Azure DevOps Engineer with 13+ years of IT experience in designing, automating and securing enterprise cloud infrastructure on Microsoft Azure. Skilled in Azure DevOps, Terraform, Kubernetes, CI/CD, Infrastructure as Code (IaC), DevSecOps, Cloud Security and Automation.
 </p>
 
 ---
@@ -19,7 +19,7 @@ Passionate Azure DevOps Engineer with 13+ years of IT experience specializing in
 - ☸️ Kubernetes (AKS) & Docker
 - 🔐 DevSecOps & Cloud Security
 - 📊 Azure Monitoring & Observability
-- 🤝 Always learning new cloud technologies
+- 🎯 Passionate about Cloud Automation & Infrastructure as Code
   ## 🛠 Tech Stack
   <p>
 <img src="https://skillicons.dev/icons?i=azure,terraform,git,github,docker,kubernetes,vscode,powershell,bash" />
@@ -34,11 +34,13 @@ Passionate Azure DevOps Engineer with 13+ years of IT experience specializing in
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shambhu-devops&show_icons=true&theme=tokyonight" />
 </p>
 ## 📈 GitHub Stats
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shambhu-devops&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shambhu-devops&show_icons=true&theme=tokyonight" />
 </p>
 
 ## 🔥 GitHub Streak
+
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=shambhu-devops&theme=tokyonight" />
 </p>
@@ -50,23 +52,20 @@ Passionate Azure DevOps Engineer with 13+ years of IT experience specializing in
 💼 LinkedIn: https://linkedin.com/in/shambhu-kumar-9789208a
 
 ## 💼 Featured Projects
-
 ### Azure Infrastructure using Terraform
 
-✔️ Provisioned Azure Resource Groups using reusable Terraform modules.
+✔️ Designed reusable Terraform modules for Azure Resource provisioning.
 
-✔️ Followed Infrastructure as Code (IaC) best practices.
+✔️ Implemented Infrastructure as Code (IaC) following best practices.
 
-✔️ Modular Terraform Architecture.
+✔️ Automated deployment using modular Terraform architecture.
 
 ✔️ Technologies: Azure • Terraform • Git • GitHub
 
-🔗 Repository: [terraform-azure](https://github.com/shambhu-devops/terraform-azure)
+🔗 Repository: https://github.com/shambhu-devops/terraform-azure
 
 ## 📚 Currently Learning
-
-- Azure Landing Zones
-- Azure DevOps YAML Pipelines
-- Terraform Enterprise Modules
-- Kubernetes (AKS)
-- GitHub Actions
+Microsoft Azure Administrator (Preparing)
+HashiCorp Terraform Associate (Preparing)
+Azure DevOps Engineer Expert (Preparing)
+Certified Kubernetes Administrator (Preparing)
