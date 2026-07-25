@@ -52,8 +52,6 @@ Senior Azure DevOps Engineer with 13+ years of IT experience in designing, autom
 
 ---
 
-## 💼 Featured Project
-
 ## 💼 Featured Projects
 
 ### Azure Infrastructure using Terraform
